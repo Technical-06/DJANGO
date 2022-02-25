@@ -1,0 +1,14 @@
+FLASK Vs DJANGO
+									
+As I know these both are two of the most popular web framework for Python.
+Django and Flask both are free, open-source and designed for building web applications. 
+In my PREFERENCE both are good to work on but depends upon the projects ie. small or large,
+UNTIL AND UNLESS I was not familiar with DJANGO,I would give my preference to FLASK but as 
+I said I haven’t worked on DJANGO before but as of now I used this in my assignment
+and I liked to work on it(DJANGO) as there are so much inbuilt features like admin panel,different templates etc.
+But for small projects I would choose FLASK as it is easy to learn and code and also very lightweight,there is also route url functions which make the process easier.
+Whereas DJANGO i would prefer it for large and complex projects,as there are so much inbuilt features as well as various models also.It has less code of lines.
+It divides the project into small-small applications which makes the work easier,fast and manageable.
+
+
+
